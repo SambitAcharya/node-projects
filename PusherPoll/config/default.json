@@ -1,0 +1,11 @@
+{
+    "pusher": {
+        "appId": "<YOUR KEY HERE>",
+        "key": "<YOUR KEY HERE>",
+        "secret": "<YOUR KEY HERE>",
+        "cluster": "<YOUR KEY HERE>"
+    },
+    "mongo": {
+        "url": "mongodb://127.0.0.1:27017/pusherPoll"
+    }
+}
